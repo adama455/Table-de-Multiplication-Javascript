@@ -1,0 +1,29 @@
+.Table{
+    background-color: rgb(53, 9, 156); 
+    width: 150px; text-align: center; 
+    margin: auto; 
+    color: white; 
+    padding: 20px;  
+    border-radius: 20px;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    width: 110px;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 65px;
+    font-weight: bold;
+    
+}
+h2{
+    text-align: center;
+    width: 80px;
+    color: blueviolet;
+    margin-left: 570px;
+    margin-top: 25px;
+    font-weight: bold;
+    
+}
